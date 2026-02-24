@@ -25,4 +25,11 @@ CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 
 NODE_ENV=development
+```
+🤝 Contributing
 
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+📄 License
+
+This project is licensed under the MIT License.
